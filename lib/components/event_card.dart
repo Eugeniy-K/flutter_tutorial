@@ -20,7 +20,6 @@ class _EventCardState extends State<EventCard> {
   void initState() {
     super.initState();
     print("initState");
-    print("initState");
   }
   @override
   Widget build(BuildContext context) {
